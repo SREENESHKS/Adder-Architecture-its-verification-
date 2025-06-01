@@ -1,4 +1,4 @@
-# Verilog Implementation and Analysis of Adder Architectures
+# Verilog  and FPGA Implementation and Analysis of Adder Architectures
 
 ## Project Overview
 

@@ -19,9 +19,9 @@ Each design is analyzed based on:
 ## ⚙️ Tools Used
 
 - **Design Tool**: [Xilinx Vivado](https://www.xilinx.com/products/design-tools/vivado.html)
-- **Simulation**: Vivado Simulator / ModelSim (optional)
+- **Simulation**: Vivado Simulator
 - **Clock Period for Synthesis**: `10 ns`
-
+- **Board Used**: Spartan-7  XC7S50-1CSGA324C
 ---
 
 ## How to Simulate

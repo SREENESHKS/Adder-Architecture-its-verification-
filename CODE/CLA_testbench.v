@@ -13,3 +13,5 @@ end
 always #2 a=a+1'b1;
 always #4 b=b+1'b1;
 endmodule
+
+//NB: U CAN INCLUDE FINISH SYNTAX TO STOP
